@@ -12,7 +12,7 @@
 
 [Interaction Network Fidelity]()
 
-[Mean of Circular Quantities]()
+[Mean of Circular Quantities](https://github.com/tzok/mcq4structures)
 
 [P value]()
 
