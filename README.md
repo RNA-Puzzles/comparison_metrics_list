@@ -1,5 +1,9 @@
 # RNA 3D structure formatting and comparison methods
 
+## Datasets from RNA-Puzzles
+
+[RNA-Puzzles Normalized submissions](https://github.com/RNA-Puzzles/RNA-Puzzles-Normalized-submissions)
+
 ## RNA structure formatting tools:
 [RNA-Puzzles Normalization](https://github.com/RNA-Puzzles/BasicAssessMetrics)
 
@@ -18,7 +22,7 @@
 
 [P value](https://github.com/RNA-Puzzles/BasicAssessMetrics)
 
-[LCS]()
+[LCS-TA](https://github.com/tzok/mcq4structures)
 
 [rnaqua]()
 
