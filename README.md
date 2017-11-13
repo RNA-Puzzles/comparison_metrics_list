@@ -2,6 +2,10 @@
 
 ## Datasets from RNA-Puzzles
 
+[RNA-Puzzles dataset](https://github.com/RNA-Puzzles/RNA-Puzzles_dataset)
+  + [raw submission](https://github.com/RNA-Puzzles/RNA-Puzzles_dataset/tree/master/raw)
+  + [normalized format](https://github.com/RNA-Puzzles/RNA-Puzzles_dataset/tree/master/normalized)
+
 [RNA-Puzzles Normalized submissions](https://github.com/RNA-Puzzles/RNA-Puzzles-Normalized-submissions)
 
 ## RNA structure formatting tools:
