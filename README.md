@@ -28,6 +28,6 @@
 
 [LCS-TA](https://github.com/tzok/mcq4structures)
 
-[rnaqua]()
+[rnaqua](https://github.com/mantczak/rnaqua)
 
-[Clash score]()
+[Clash score](https://github.com/mantczak/rnaqua)
