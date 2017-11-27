@@ -30,4 +30,4 @@
 
 [rnaqua](https://github.com/mantczak/rnaqua)
 
-[Clash score](https://github.com/mantczak/rnaqua)
+[Clash score](http://molprobity.biochem.duke.edu/)
